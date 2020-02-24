@@ -1,0 +1,77 @@
+{
+    "success": 200,
+    "data": {
+        "topicList": [{
+            "id": "1201",
+            "title": "社会热点",
+            "imgUrl": "http://cdn.duitang.com/uploads/item/201407/17/20140717205326_xVnxM.thumb.700_0.jpeg"
+
+        }, {
+
+            "id": "1202",
+            "title": "手绘",
+            "imgUrl": "http://cdn.duitang.com/uploads/item/201407/17/20140717205326_xVnxM.thumb.700_0.jpeg"
+
+
+        }, {
+            "id": "1203",
+            "title": "读书",
+            "imgUrl": "http://cdn.duitang.com/uploads/item/201407/17/20140717205326_xVnxM.thumb.700_0.jpeg"
+
+        }, {
+            "id": "1204",
+            "title": "电影",
+            "imgUrl": "http://cdn.duitang.com/uploads/item/201407/17/20140717205326_xVnxM.thumb.700_0.jpeg"
+
+        }, {
+            "id": "1205",
+            "title": "音乐",
+            "imgUrl": "http://cdn.duitang.com/uploads/item/201407/17/20140717205326_xVnxM.thumb.700_0.jpeg"
+
+        }, {
+            "id": "1206",
+            "title": "健身",
+            "imgUrl": "http://cdn.duitang.com/uploads/item/201407/17/20140717205326_xVnxM.thumb.700_0.jpeg"
+
+        }, {
+            "id": "1207",
+            "title": "科技",
+            "imgUrl": "http://cdn.duitang.com/uploads/item/201407/17/20140717205326_xVnxM.thumb.700_0.jpeg"
+
+        }],
+        "articleList": [{
+            "id": "1105",
+            "title": " 20几岁的你，现在知道这些还不晚",
+            "desc": "文 | 依子 20几岁的你，现在知道这些还不晚: ✔运动100天，就可以脱胎换骨，收获窈窕的身材； ✔读书100本，就可以充实你的头脑，颠覆你的...",
+            "imgUrl": "https://c-ssl.duitang.com/uploads/item/201506/01/20150601212315_ceSvK.thumb.700_0.jpeg"
+        }, {
+            "id": "1106",
+            "title": " Chrome浏览器精品插件",
+            "desc": "Chrome强大最直观明显的就是各种功能的插件，以下是我精心收集的各种精品插件。 众所周知Google是被挡在墙外的，对于不会科学上网无法访问C...",
+            "imgUrl": "https://upload-images.jianshu.io/upload_images/1001659-76948f6da451064d.jpg?imageMogr2/auto-orient/strip|imageView2/1/w/360/h/240"
+        }, {
+            "id": "1107",
+            "title": " 和12星座的恋爱日常（上篇）",
+            "desc": "每个人在单身时和恋爱时的状态都不太一样， 那么12星座的恋爱日常会是什么样的呢？ · 白羊座· 收起暴脾气：白羊座是行走的炸药包，遇到不爽的事情...",
+            "imgUrl": "https://upload-images.jianshu.io/upload_images/3229217-7265cacbf37cca2d?imageMogr2/auto-orient/strip|imageView2/1/w/360/h/240"
+        }, {
+            "id": "1107",
+            "title": "碎片化阅读是否可行？我用这个方法一年读了53本书",
+            "desc": "关于读书的重要性，我想不用赘述，提问者明确说碎片时间怎么读书而不是读信息，各位看官也是因为看到碎片时间读书的标题才点进来看文章的。所以我们把重点...",
+            "imgUrl": "https://upload-images.jianshu.io/upload_images/14365861-ff826a9323c357f8.jpeg?imageMogr2/auto-orient/strip|imageView2/1/w/360/h/240"
+        }],
+        "recommendList": [{
+            "id": "1301",
+            "imgUrl": "https://cdn2.jianshu.io/assets/web/banner-s-club-aa8bdf19f8cf729a759da42e4a96f366.png"
+        }, {
+            "id": "1302",
+            "imgUrl": "https://cdn2.jianshu.io/assets/web/banner-s-7-1a0222c91694a1f38e610be4bf9669be.png"
+        }, {
+            "id": "1303",
+            "imgUrl": "https://cdn2.jianshu.io/assets/web/banner-s-5-4ba25cf5041931a0ed2062828b4064cb.png"
+        }, {
+            "id": "1304",
+            "imgUrl": "https://cdn2.jianshu.io/assets/web/banner-s-6-c4d6335bfd688f2ca1115b42b04c28a7.png"
+        }]
+    }
+}
