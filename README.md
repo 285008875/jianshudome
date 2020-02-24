@@ -27,7 +27,7 @@ Your app is ready to be deployed!
 
 See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
 
-![avatar](./jianshu1.jpg)
+![avatar](https://github.com/285008875/jianshudome/blob/master/public/img/jianshu1.jpg)
 
-![avatar](./jianshu1.jpg)
+![avatar](.https://github.com/285008875/jianshudome/blob/master/public/img/jianshu2.jpg)
 
